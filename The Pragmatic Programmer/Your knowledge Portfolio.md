@@ -14,6 +14,9 @@
 - `dogma`: a fixed belief, a set of belief that people are expected to accept without any doubts.
 - `zealot`: a person that have a very strong opinion about something, and tried to make other have them too.
 - `petulant`: childishly, sulky, bad-tempered.
+- `cynical`: belief that people act based on their selfish, there is no such sincerity.
+- `touting`: attempt to sell somethings, especially bordering people, pestering people in an aggressive or bold manner
+- `torrent`: a fast-moving stream of water or other liquid.
 
 ### Introduction
 >If we could just be early to bed and early to rise, we'd be great programmers, right? The early bird might get the early worm, but what happens to the early worm?
@@ -55,4 +58,13 @@ Be aware of the commercialism, the top search result is not always the most rele
 > Critically analyze what you read and hear
 
 Head start with a few questions to ask and think about:
-- 
+- Five why questions
+- Money stream: to detect who is this for
+- Context: to detect if we can use that in our situation
+
+#### Challenges
+Read a new book:
+- If you worked on detailed implementations, let's read a design and architecture book
+- If you worked on high-level design, let's read coding techniques.
+
+

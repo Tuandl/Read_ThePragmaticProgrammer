@@ -4,4 +4,4 @@
 4. Stone Soup and Boiled frog
 5. [[Good-Enough Software]]
 6. [[Your knowledge Portfolio]]
-7. Communicate
+7. [[Communicate!]]
