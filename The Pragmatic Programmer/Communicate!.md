@@ -6,6 +6,8 @@
 - `overlooked`: fail to notice something, ignore or disregard, have a view from above.
 - `graze someone`: to shower someone with excessive praise, compliments, often to the point of it becoming annoying or cringeworthy.
 - `cringeworthy`: embarrassment, awkwardness.
+- `receptive listener`: a skill that focus on listening, understanding the speaker's message rather than planning a response.
+- `hand-holding`: supports during the learning period.
 
 ## Introduction
 When having a finest idea or the most pragmatic thinking is ultimately sterile unless you can communicate with other people. A good idea is an orphan without effective communication.
@@ -23,3 +25,22 @@ Ideas that would be useful:
 The trick to make effective communication with the target audience is gathering feedback. Don't just wait for them, ask for them. The presumption of NLP above highlights the true meaning of the message is not what was intended, but rather the what receivers response to and understand. This also highlight the important of feedback in the communication.
 
 #### Know what you want to say
+> Plan what you want to say. Write an outline. Then ask yourself, "Does this communicate what I want to express to my audience in a way that works for them?" Refine until it does.
+
+#### Choose your moment
+Choose the time when the audient is willing to be a receptive listener to share the idea.
+
+#### Choose a style
+It's more suitable when asking the audience the style they wanted or let them know the style you wanted, too. Because you're only a half of the communication transaction.
+
+#### Make it look good
+> After awl, their are spelling miss streaks that the chequer can knot ketch.
+
+That means: "After all, their are spelling mistake that the checker can not catch". This is an important practice, that we should use automatic tool first, then by hand.
+
+#### Involve your audience
+The process to produce the document is more important than the document itself. It's better to get feedbacks from the audiences.
+
+#### Be a listener
+A technique to make people listen to you is listen to them. We can ask the meeting participants to restate the discussion in their own words to turn the meeting into a dialog.
+
