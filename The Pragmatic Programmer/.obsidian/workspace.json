@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "your knowledge por",
+                "query": "conta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23d4bbd46b36fc52",
+  "active": "b21b01be3d6497a7",
   "lastOpenFiles": [
     "A Pragmatic Philosophy.md",
     "Communicate!.md",
