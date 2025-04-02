@@ -8,35 +8,50 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f22cd24eb65c98e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Pragmatic Philosophy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Pragmatic Philosophy"
-            }
-          },
-          {
             "id": "23d4bbd46b36fc52",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c3ee8eaee0329e3c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Communicate!.md",
+                "file": "Chapter 2. A pragmatic approach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Communicate!"
+              "title": "Chapter 2. A pragmatic approach"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "1bdfc514c3b00a1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48a1e2d8b7131b0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic 8. The essence of Good design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Topic 8. The essence of Good design"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,13 +173,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Communicate!.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Communicate!"
+              "title": "Outline"
             }
           }
         ],
@@ -184,9 +198,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b21b01be3d6497a7",
+  "active": "23d4bbd46b36fc52",
   "lastOpenFiles": [
-    "A Pragmatic Philosophy.md",
+    "Chapter 2. A pragmatic approach.md",
+    "Topic 8. The essence of Good design.md",
+    "Chapter 1. A Pragmatic Philosophy.md",
     "Communicate!.md",
     "Your knowledge Portfolio.md",
     "Good-Enough Software.md",
