@@ -36,8 +36,7 @@ this highlights the loose coupling, independence
 
 ## non orthogonal system
 it's helicopter controls. It has 4 basic controls.
-When changing each control input, it has side effects, therefor we must compensate by changing other controls to make it stable.
-
+Changing each control input has side effects; therefore, we must adjust other controls to maintain stability.
 ## benefit of orthogonality
 the inherent effect is eliminate side effects between unrelated things
 - increase productivity by easy reusing, reduce testing time
