@@ -2,7 +2,7 @@ Sometimes, code duplication is intentional because different contexts may requir
 # Vocabulary:
 - Fall afoul of: fall into trouble because of disobeying or not following
 - Inadvertently: in a way that is not intentional.
-- Insidious: a harm that gradually, subtly grow from inside that you don't aware about it
+- Insidious: harm that gradually and subtly grows from within, often unnoticed
 - Intrusive: disrupt, annoying action
 - Snoop: inspect to attempt to find out information about something like other affairs
 - Reciprocol: in exchange for something inreturn.
