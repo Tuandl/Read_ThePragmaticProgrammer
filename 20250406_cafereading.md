@@ -31,7 +31,7 @@ communication will help, like scrum meeting
 
 # Orthogonality
 Inspired by geometric principles, two modules are orthogonal when they only meet at a specific point.
-Which mean changing 1 won't affect the other.
+which means changing one won't affect the other.
 this highlights the loose coupling, independence
 
 ## non orthogonal system
