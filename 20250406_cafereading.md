@@ -13,7 +13,7 @@ Sometimes, code duplication is intentional because different contexts may requir
 - 
 
 # Representation duplication
-when exposing code via API, both producers and consumers need to store knowledges of these APIs
+when exposing code via API, both producers and consumers need to store knowledge of these APIs
 that's inevitable, but we can mitigate some by followings
 
 ## Duplicate across internal APIs
