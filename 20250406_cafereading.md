@@ -30,7 +30,7 @@ can use a tool like ORM to create a container for a table schema
 communication will help, like scrum meeting
 
 # Orthogonality
-Inpired from geomatric, 2 modules are orthogonal when they only meet at a speciclfic point
+Inspired by geometric principles, two modules are orthogonal when they only meet at a specific point.
 Which mean changing 1 won't affect the other.
 this highlights the loose coupling, independence
 
