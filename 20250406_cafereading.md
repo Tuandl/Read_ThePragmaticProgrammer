@@ -22,8 +22,7 @@ these tools will help to generate functions, mock apis, funtional test, api clie
 the point is to be able to share across the team
 
 ## Duplicate across external APIs
-same with internal apis. should find a neutral format, if there is none, let's creat one to share others
-
+Same as internal APIs; if a neutral format does not exist, let's create one to share with others.
 ## Duplicate with data source
 can use a tool like ORM to create a container for a table schema
 
