@@ -5,7 +5,7 @@ Sometimes, code duplication is intentional because different contexts may requir
 - Insidious: harm that gradually and subtly grows from within, often unnoticed
 - Intrusive: disrupt, annoying action
 - Snoop: inspect to attempt to find out information about something like other affairs
-- Reciprocol: in exchange for something inreturn.
+- Reciprocal: in exchange for something in return.
 - Orthogonality: 2 vectors, 2 lines intersect at 90 degree angle
 - Signify: be an indication of something
 - interdependent: depend on each other
