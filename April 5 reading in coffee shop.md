@@ -20,4 +20,4 @@ Good design is easy to change
 DRY
 - DRY literally means do not copy and paste code
 - Why is it important? It's about maintenance. The maintenance starts very early, even before product goes live. It starts since the requirement changed, requirement changed since the meetings, designing, implementation.
-- DRY also means not duplication of knowledge, intent. It's about expressing the same thing in different places, possibly in two totally different way.
+- DRY also means not duplication of knowledge, intent. It's about expressing the same thing in different places, possibly in two totally different ways.
