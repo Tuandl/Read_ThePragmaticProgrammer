@@ -40,7 +40,6 @@ Changing each control input has side effects; therefore, we must adjust other co
 ## benefit of orthogonality
 the inherent effect is eliminate side effects between unrelated things
 - increase productivity by easy reusing, reduce testing time
-- reduce risk. deseased code is isolated, less fragile, better test, not tight to any particular vendor
-
+- reduce risk: decoupled code is isolated, less fragile, easier to test, and not tightly coupled to any particular vendor.
 ## design orthogonal system
 
