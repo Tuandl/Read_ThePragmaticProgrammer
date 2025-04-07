@@ -1,5 +1,4 @@
-Sometimes, code duplication is on good purpose, because they are different knowledge but coincidently same logic.
-
+Sometimes, code duplication is intentional because different contexts may require similar logic.
 # Vocabulary:
 - Fall afoul of: fall into trouble because of disobeying or not following
 - Inadvertenly: in a way that is not intention.
