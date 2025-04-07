@@ -6,7 +6,7 @@ Sometimes, code duplication is intentional because different contexts may requir
 - Intrusive: disrupt, annoying action
 - Snoop: inspect to attempt to find out information about something like other affairs
 - Reciprocal: in exchange for something in return.
-- Orthogonality: 2 vectors, 2 lines intersect at 90 degree angle
+- Orthogonality: Two vectors or lines intersect at a 90-degree angle
 - Signify: be an indication of something
 - interdependent: depend on each other
 - riplle: a serie of waves caused by a dropped object
