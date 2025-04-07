@@ -30,15 +30,9 @@
               "icon": "lucide-file",
               "title": "Chapter 2. A pragmatic approach"
             }
-          }
-        ]
-      },
-      {
-        "id": "1bdfc514c3b00a1e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "48a1e2d8b7131b0f",
+            "id": "b88fd34adf02d586",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,7 +45,8 @@
               "title": "Topic 8. The essence of Good design"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,12 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Topic 8. The essence of Good design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Topic 8. The essence of Good design"
             }
           }
         ],
@@ -198,10 +194,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23d4bbd46b36fc52",
+  "active": "b88fd34adf02d586",
   "lastOpenFiles": [
-    "Chapter 2. A pragmatic approach.md",
+    "Topic 9. DRY - The evils of duplication.md",
     "Topic 8. The essence of Good design.md",
+    "Topic 10. Orthogonality.md",
+    "Chapter 2. A pragmatic approach.md",
     "Chapter 1. A Pragmatic Philosophy.md",
     "Communicate!.md",
     "Your knowledge Portfolio.md",

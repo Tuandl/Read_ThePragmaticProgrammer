@@ -10,3 +10,9 @@
 
 > Tip 14: Good design is easier to change than bad design
 
+## Good design is easy to change
+- ETC: easy to change
+- Why loose coupling is good? Because it's easy to change
+- Why single responsibility is good? Because it's easy to change
+
+> Law of Demeter: least of knowledge, loose coupling design guideline
