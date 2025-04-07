@@ -3,7 +3,7 @@ law of Demeter: least of knowledge, loose coupling design guideline
 Vocabulary:
 - Subtly nudge someone to the right direction
 - Premise: a claim used to infer or follow.
-- Accentuate: emphasize, make noticable, prominent
+- Accentuate: emphasize, make noticeable, prominent
 - Cue: a signal to do something
 - Harness knowledge: effectively use knowledge to control something or to reach the target
 - Capsule of knowledge: a knowledge module, video or documentation to bootstrap of a module
