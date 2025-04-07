@@ -16,7 +16,7 @@ Sometimes, code duplication is intentional because different contexts may requir
 when exposing code via API, both producers and consumers need to store knowledge of these APIs
 that's inevitable, but we can mitigate some issues by the following approaches
 ## Duplicate across internal APIs
-adopt to a tool that help to specify api in a neutral format.
+adopt a tool that helps specify APIs in a neutral format.
 these tools will help to generate functions, mock apis, funtional test, api client
 the point is to be able to share across the team
 
