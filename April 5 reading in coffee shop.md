@@ -8,7 +8,7 @@ Vocabulary:
 - Harness knowledge: effectively use knowledge to control something or to reach the target
 - Capsule of knowledge: a knowledge module, video or documentation to bootstrap of a module
 - Authoritative representation: a depiction that is considered as official.
-- Acid test: the proof value of something, or the standard that something must meet in order to prove it's value.
+- Acid test: the proof value of something, or the standard that something must meet in order to prove its value.
 - Implication: the conclusion draws from something without explicitly saying.
 
 
