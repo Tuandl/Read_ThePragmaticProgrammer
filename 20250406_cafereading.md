@@ -17,7 +17,7 @@ when exposing code via API, both producers and consumers need to store knowledge
 that's inevitable, but we can mitigate some issues by the following approaches
 ## Duplicate across internal APIs
 adopt a tool that helps specify APIs in a neutral format.
-these tools will help to generate functions, mock apis, funtional test, api client
+these tools will help generate functions, mock APIs, functional tests, and API clients
 the point is to be able to share across the team
 
 ## Duplicate across external APIs
