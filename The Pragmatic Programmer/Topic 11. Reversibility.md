@@ -15,6 +15,7 @@
 - `fad`: a style, activity, interest that becomes popular for a short time
 - `awe`: a feeling of great respect, sometimes mixed with fear or surprise.
 - `volatility`: tendency of a substance to evaporate at normal temperature, liable to change rapidly.
+- `forgo`: omit or decline to something pleasant or valuable. Go without.
 
 ## Introduction
 
@@ -28,4 +29,24 @@ Should prepare for contingencies that might happen any time in the future. Becau
 
 > Tip 18, There are no final decisions
 
-## Flexible architecture
+### Flexible architecture
+There are many fads about technology like the server-side architecture:
+1. Big hunk of iron
+2. Federated big hunk of iron
+3. Load-balanced clusters of commodity hardware
+4. Cloud-based virtual machine
+5. Containerized
+6. Cloud-supported serverless application
+7. Eventually, some tasks moved back to a big hunks of iron nowadays.
+
+> Tip 19, Forgo following fads
+
+Should build the code to rock-n-roll:
+- to rock on when it can.
+- To roll with the punches when it must.
+
+**Schrodinger's cat**
+There is a black box that has a cat and a nuclear radioactive particle inside. The particle has 50% of the chance of fissioning into two. If it does the cat will die. So, is the cat alive or dead? Regarding Schrodinger's cat, it's both at least when we have not opened the box.
+If we apply this metaphor into software engineering, every decision results in a new future. How many possible futures can your code support? Which one is more likely? How hard will it be to support them when the time comes?
+
+## Tracer bullets
