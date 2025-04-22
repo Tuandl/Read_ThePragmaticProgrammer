@@ -49,4 +49,3 @@ Should build the code to rock-n-roll:
 There is a black box that has a cat and a nuclear radioactive particle inside. The particle has 50% of the chance of fissioning into two. If it does the cat will die. So, is the cat alive or dead? Regarding Schrodinger's cat, it's both at least when we have not opened the box.
 If we apply this metaphor into software engineering, every decision results in a new future. How many possible futures can your code support? Which one is more likely? How hard will it be to support them when the time comes?
 
-## Tracer bullets
