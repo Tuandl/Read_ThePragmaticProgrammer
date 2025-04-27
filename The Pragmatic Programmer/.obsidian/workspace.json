@@ -4,91 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "51a50f5d8050946e",
+        "id": "163cf58eaa520db4",
         "type": "tabs",
         "children": [
           {
-            "id": "23d4bbd46b36fc52",
+            "id": "564365a7b30d1d94",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "c3ee8eaee0329e3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2. A pragmatic approach.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Chapter 2. A pragmatic approach"
-            }
-          },
-          {
-            "id": "b88fd34adf02d586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2. A pragmatic approach.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 2. A pragmatic approach"
-            }
-          },
-          {
-            "id": "15ddae6b329f0cfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2. A pragmatic approach.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 2. A pragmatic approach"
-            }
-          },
-          {
-            "id": "164073d6ca535302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic 12. Tracer Bullets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Topic 12. Tracer Bullets"
-            }
-          },
-          {
-            "id": "65e074285e2c6a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic 11. Reversibility.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Topic 11. Reversibility"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conta",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topic 12. Tracer Bullets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Topic 12. Tracer Bullets"
+              "title": "Outline"
             }
           }
         ],
@@ -236,11 +164,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "164073d6ca535302",
+  "active": "564365a7b30d1d94",
   "lastOpenFiles": [
+    "Chapter 2. A pragmatic approach.md",
+    "Topic 14. Domain Language.md",
+    "Topic 13. Prototypes and Post-it notes.md",
     "Topic 11. Reversibility.md",
     "Topic 12. Tracer Bullets.md",
-    "Chapter 2. A pragmatic approach.md",
     "Topic 8. The essence of Good design.md",
     "Topic 9. DRY - The evils of duplication.md",
     "Topic 10. Orthogonality.md",
